@@ -7,5 +7,5 @@
      https://YOUR-SITE.netlify.app/.netlify/functions/notify
 */
 window.SITE_CONFIG = {
-  notifyEndpoint: ""
+  notifyEndpoint: https://shimmering-kitten-5619ce.netlify.app/
 };
